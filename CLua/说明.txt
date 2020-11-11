@@ -1,0 +1,5 @@
+window构建
+
+使用msys2管理编译工具
+安装msys2后通过命令安装
+$ pacman -S gcc make
